@@ -1,0 +1,26 @@
+{
+  "name": "Anne Ford",
+  "age": 40,
+  "address": {
+    "street": "Lupi Way",
+    "city": "Salikun",
+    "state": "OK",
+    "zip": "02848"
+  },
+  "contact": {
+    "phone": "(967) 996-1386",
+    "servicePhone": "800612128"
+  },
+  "birthday": "1991-02-04T04:49:45.147Z",
+  "ip": "148.45.247.92",
+  "foo": "bar",
+  "profile": {
+    "about": "Macul lo ca wev guha oloeg zufej vur zi butnedi pitudav mugberluw. Pahig jazwidvon ugotof iziz piv cucahiw wiz zubi uk jabizdim idufosiki jopsu gowis haw ducokuv. Wi itit muvol hufadar nar jerkig muc efauk bes vukto porka fik ot jehav obabaaf lik ahcutmew wedfub. Hi bek rakes rifafu pibut dispapim ziji jopcevbov ozi gidomle lo ted cico. Jehru emvop nisju ji sanil gecih wudbu ognusaz muzedkal fip we fijute teescal. Pepokma is inusov zunogav abreheg pej vuhnov oh cuv gifmurlag peh bikot luhde. Tuhbu hipakme dag vomeh kep lo diiw udagimkib ke hav poun fapob gecsoweva siciv tan beowma.",
+    "bio": "Mi gurfak en no orlusgen wofuceb doheseri buiw erfihen huatba ku izane fuwow nezkos med fezo mej. Kitkah woofse ro fe huleg mewruzdif ibwe soh husi guwsusir kogpez ruobu ota. Lepiwvi ze wonu co laam ceurezu piv dogozaz ti igaob siteptum tesmujlib. Kovu tif wugode so un takbe hud web pefdev wo emi pig rapeb rojlihi. Rot awcivfi neghicboh napuv pufi ficoh pe vu delum gita jigzet jefofsuk pojco bewwa evorunif awbemu huritim mucguk. Furih tok vovojra pi cibvam alaoz bafafgud go panalu vinasas mim nuwaleje ac."
+  },
+  "apiKey": "daaeb43e3b3d35fba4a3d571a65c51eb9703d042a9d31b1d9c9d94a1a8091de5",
+  "currency": {
+    "code": "PLN",
+    "name": "Poland Zloty"
+  }
+}
