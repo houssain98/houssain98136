@@ -1,0 +1,26 @@
+{
+  "name": "Millie Garcia",
+  "age": 53,
+  "address": {
+    "street": "Mifne Place",
+    "city": "Nuvovif",
+    "state": "NJ",
+    "zip": "25285"
+  },
+  "contact": {
+    "phone": "(802) 959-6292",
+    "servicePhone": "800317997"
+  },
+  "birthday": "1980-05-30T06:30:44.197Z",
+  "ip": "107.43.22.231",
+  "foo": "bar",
+  "profile": {
+    "about": "Umi elooti viti deade hez lusa diwum ol sico se so lar ucopi jara. Vafisi ribad elparzul cogemcun ucoenezam kecvu bopoc pagurow do wiafe zu limebfud od uj ra he mogra. Kivakteg lurhum ihre fo zemeew nidru wobo buzdub ratez boodavov wi buzobdu. Wofgacla botehep cein wubi tubefok fulcitug rumtu pi vikzara fukji zofab ekoatu.",
+    "bio": "Utucacreb joono suvce rer zoc racog rinfoz dace kajcecde orepe uki feb to tegesuh buk. Esowe soj mat guhowsen vizcatlis gac tefojaz divci uf egi toigij genuwbe jucwe taokuge vor otagi zakazo. Befu bebocal togsam bab ame povdusjez paw nevgafta hihusce citsenuv unrubwi iper wocopas ku."
+  },
+  "apiKey": "0dbab5c032dba829e9e4a7fe7499dc6f8cebbe8426baf7fa04c7890914b43233",
+  "currency": {
+    "code": "NIO",
+    "name": "Nicaragua Cordoba"
+  }
+}
