@@ -1,0 +1,26 @@
+{
+  "name": "Laura Mills",
+  "age": 35,
+  "address": {
+    "street": "Rumni Road",
+    "city": "Eplunvu",
+    "state": "DE",
+    "zip": "40728"
+  },
+  "contact": {
+    "phone": "(821) 855-3099",
+    "servicePhone": "800334233"
+  },
+  "birthday": "1989-04-23T16:20:38.009Z",
+  "ip": "18.11.15.157",
+  "foo": "bar",
+  "profile": {
+    "about": "Esemle sit bitubneb jujawmen ci lopohmu pa odevuse wuk kuil ogihosca banmetki eb ol. Munuvfi gihdoib izkaguv be woc na zevipi ispu gih lovu uh kido va gi ke jed lilfoage peifafak. Hom om vajcafan mespo gehe wusiguf hifvafam cumogka dawe ce semkujne uwe ligfe jim haz ete kus ba.",
+    "bio": "Voju pamse mizakdah es hah ak patebel hac alnukweb sogvooni konaf sece suwne helgod ho. Ki bavuca age gahdoh fatoda ehorelzut dacutohu va umdo oh awije loobe digov jumo li geh. Wus ilomijik ni uz usuwoeb kok midciwdi bo em verig mewagwo gevogwud od sa puwikiva nubgek. Hej uko wapjejkab ro tog pet miwfa be hur caimpap azica himvur tabtoes domlowpuj umemudni. Aw ehuicza pucozul zoorisu hu ega gi idi kebic lebev jocojsu um bu sezhiug jehudfan umabe. En kamuz dorojuc jicilacaw huzhidkej fidevos kiuna ro kivehfeh upa keh vil gimirzen sugi. Racahil lo huhzo veje juptohe kowbagboc ogvicip batazif fak woraoz bo he guj heza."
+  },
+  "apiKey": "f47ecf284529c7b1435aecf22a80f033c47812f6dfd8d8bb9c6a5c2c1275666a",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
