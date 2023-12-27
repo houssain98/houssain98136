@@ -1,0 +1,26 @@
+{
+  "name": "Ronald Holt",
+  "age": 20,
+  "address": {
+    "street": "Zika Glen",
+    "city": "Bemisow",
+    "state": "KS",
+    "zip": "38286"
+  },
+  "contact": {
+    "phone": "(775) 974-3899",
+    "servicePhone": "800494773"
+  },
+  "birthday": "1999-12-17T05:12:04.136Z",
+  "ip": "142.210.31.2",
+  "foo": "bar",
+  "profile": {
+    "about": "Zo tinjaz komdinzet ihorarid nojez gelu jinro nuud uzuga diljual kokow sivohtid zagalle pudese eswawig. Ezga felezode detev kevpuz wesi po abaweb ri va jej sazim piupi lafi. Fitim obabet cuv avi cu olofi matpupvad opoagumi ce reggu deggozup fawoj tor uhceoti suceid jep elaolo alfutmop. Radjov fonagupu kagkaca sa lo enero doro ri dupovvej ikmoz na je pi mori tafarauv turhaok. Doh ritkarke rede laf utovhu ire luz canuho ahi du tijtaget umimebsej. Puhevleh ke zurorpu hut eziakco ifo reb we ume moafu sibigmij hecsal papdu kojkiojo mavuwono dacat zukjok. Foep rona bade tihduhi zigezu nahpon zet ad viwwu otowozon uce luvorme.",
+    "bio": "Ciah tegvalad kemlopzog hav ozgum ra torijimil kop nuatuubi zuncoptar pawiid eju. Ruvcid zimito ki tugaj gouru ud sur gati gekce ivezu kihdoh tigpus vasil fitosvic oviku. Viuci logaz kejro kori fav lemve cumofwu juc mabfaw pozi waetu ohaisanam sa."
+  },
+  "apiKey": "82cf5140fa68f9c013dad8f99960d4a3b770d2778f2c5c125f35b822f3d9f0a6",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
