@@ -1,0 +1,26 @@
+{
+  "name": "Manuel Palmer",
+  "age": 52,
+  "address": {
+    "street": "Minjus Mill",
+    "city": "Kewobdof",
+    "state": "HI",
+    "zip": "95401"
+  },
+  "contact": {
+    "phone": "(672) 852-6765",
+    "servicePhone": "800595359"
+  },
+  "birthday": "2006-06-19T12:42:52.561Z",
+  "ip": "132.109.47.36",
+  "foo": "bar",
+  "profile": {
+    "about": "Wubpodhof buhfir do hovser jebuj atje zal ibkuiv ej rikukdar hehjur fag pufle ogujecson lorlos cegun. Niav gan luh fi bi na batcosuv fuh vi faadele kitehruv soz ut pah zi. Ruwnup ju zor eji vatsoda ewe gat dugij si vufakun rocusej bi rosup eknorfil.",
+    "bio": "Idjewat lolmuru umi jiamu zobo cumidaah hehava it owaluz lawawen buh seumu ica zog kac ilaw em. Zag aracit ranheoz decubso lekovniv makahga gum mobpo tazogene ibosiri kovil pajdam wowur raakfal favi wo go meziro. Juwfiko gowaw kunok gos zod galispu wevoavi je almajuc oldehsa nel kodguw buzati femroz cumzijul."
+  },
+  "apiKey": "6892be52777420a085e0df40cd3e8ab02324e8d15f4e855960a62c7e237a9408",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
