@@ -1,0 +1,26 @@
+{
+  "name": "Edith Jensen",
+  "age": 63,
+  "address": {
+    "street": "Saga River",
+    "city": "Nejmecvil",
+    "state": "NJ",
+    "zip": "77388"
+  },
+  "contact": {
+    "phone": "(931) 722-1272",
+    "servicePhone": "800235121"
+  },
+  "birthday": "1975-10-17T20:09:26.052Z",
+  "ip": "120.93.221.74",
+  "foo": "bar",
+  "profile": {
+    "about": "Rec zihod puvloig ho eglethuk bumu ci ru bewize zosuago iho oge dapa si ibbah uvetod. Duglorgav co zohajo cih toko ahfu to me tojcowaru ocsonlab op ke im pawi oha na larfipa zej. Fo co vozumzif er munu uti rore odu amzi puvsueka kokzeof legutet beldi.",
+    "bio": "Udcaga zu ci geh wabsowmo fa mogwecuj in pob okerucu ni pobahe dafpaf wiska muvbu. Vow upu ne jaej soj tah mo lewuv zekuiv indijig hauc leefoubo go pofbojev taot pise. Dul ker con rusuf toher nor sirdepref ovo atime giom beke musen gusifa zu wuhud duojheb ma cohofpuj."
+  },
+  "apiKey": "bf451a86f17db260064360fb889ec7d73f7e570a201c326840ee8c6ad3b4f42d",
+  "currency": {
+    "code": "MYR",
+    "name": "Malaysia Ringgit"
+  }
+}
