@@ -1,0 +1,26 @@
+{
+  "name": "Alan Nunez",
+  "age": 56,
+  "address": {
+    "street": "Ubiri Boulevard",
+    "city": "Cibajevo",
+    "state": "MS",
+    "zip": "46954"
+  },
+  "contact": {
+    "phone": "(315) 721-6024",
+    "servicePhone": "800588979"
+  },
+  "birthday": "2002-07-15T12:05:44.281Z",
+  "ip": "37.241.7.167",
+  "foo": "bar",
+  "profile": {
+    "about": "Kikul ju nifvekte citzej fickug damnu miokicah ak ekkifjo muri geh fukete. Iheko huir ze ge fuhcoh mar vaco len met ermotori vukaba ijvopol. Zuw oki abewal zeejri ubajihtes zalo ipuroh fewagu va begousa dingiggaz najog loocalu cuakadas. Tulagwo tokmerto osalozus liduram enbas siar azunasika tika tonva bufevo alehom ha ma ig.",
+    "bio": "Obe tufuv nikbada wi dovja pen homfipu wesmu apipojru ekozulwe vutud uwhalbo zeal te. Hifjit hanazo uzule hijmilfi kusame gaj wi luiwu tasbek waf viwpi imi. Simik nu gipob powfegaw ogoh kimab kokma begane ne foad age ute tedovhad. Wiju ota igi san foni kupjape fab lufti mudipoc kigseezi ki onucumoz ja jace. Le buhlu aw uz gozu cog okfemego civumu tociwog go ek eh sac he."
+  },
+  "apiKey": "1f807aba981477efb157af9be4c307881b442a7f1b04130ae81ccbcf08b1d736",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
