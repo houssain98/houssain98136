@@ -1,0 +1,26 @@
+{
+  "name": "Bill Poole",
+  "age": 60,
+  "address": {
+    "street": "Mekeb Center",
+    "city": "Kecakifo",
+    "state": "KY",
+    "zip": "16279"
+  },
+  "contact": {
+    "phone": "(901) 309-9283",
+    "servicePhone": "800525477"
+  },
+  "birthday": "1962-03-22T13:10:43.960Z",
+  "ip": "98.192.87.59",
+  "foo": "bar",
+  "profile": {
+    "about": "Pobrasa aceva vatnofko pe mu mu recal tilgigep libueso neavu zeoseru be civsusocu bojgir donejzob hel nu. Lojiw difiteru azgah uwi osepik ogurul ijpeg guhfep hezbak er mut vagmichu ajipordu rof gafo rail rezco pimo. Fawvuud be giggeuh tedetevo bioc ozoum noszoh woc lotruje sivmu do pura.",
+    "bio": "Ul bezsofin ezufeali giza ovuadinab rig moczaoc dipsoker cihigof hubiz anuudro lel jifjerca vesver wore. Rijgeal erowifif lesadu rovpihme mironip reud vubuco az nafoj gem zat zos alwo ukzul kuv hemaw marsoad pu. Ekgov raboruza divalad mam hejko babino welza co uhodoczop cacpit fobre sopigo be nawe."
+  },
+  "apiKey": "f58f6819370d6299e02eb69728655ec179185f08e180292b121fc537077e1c0f",
+  "currency": {
+    "code": "SBD",
+    "name": "Solomon Islands Dollar"
+  }
+}
