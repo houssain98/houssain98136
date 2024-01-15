@@ -1,0 +1,26 @@
+{
+  "name": "Flora Sanders",
+  "age": 37,
+  "address": {
+    "street": "Ajevac Highway",
+    "city": "Tazaklof",
+    "state": "TN",
+    "zip": "36550"
+  },
+  "contact": {
+    "phone": "(801) 918-6028",
+    "servicePhone": "800416133"
+  },
+  "birthday": "1994-09-11T05:01:35.937Z",
+  "ip": "25.136.73.129",
+  "foo": "bar",
+  "profile": {
+    "about": "Sevcuti lu edhuri olenis mefherwi ifa dac kuj zol esjeblin fimge kin. Cesa wiako ke rifrince udfepid vukoco wef gonoacu ka nupvase coadcuc habdu bucaji jap zepu. Ciimuami ahmowob kuduub jabivzul jinvem usbot pimodozu rudneh te arihuage keswi naficpi wokel onziwet. Weuna bovvicto gofcawsa hetki le ugab tebfuudo itihat nowedaha esecufpa gigimaw wurdit.",
+    "bio": "Ojran ganmikeh mimnunun vava sazkik bifpu ventedom vecwovfek aw dufizuwo basnired vimjah lo. Heptoz etiba ohu afook sip saw josre in gobojaka kezowu ceghu ozuap em ihorijub zozul ite. Gadi filosecub penuvpaz ucuw hame zela wipetuj rovvozwa on zogmudawu hupsuvce ig. Um gikpafja we icusefa ci mancup kubodu jos navusuja fitizje hi ejozarheg zuvgu zomej bu foga. Daketu ifzega ukso juhriij pilhed riwidle ocaomofu gusculo hopvi likoop wola nuwbi uc zi nawidpuk atu."
+  },
+  "apiKey": "b94b453a1fe2b60ec1fe3971e125b117383af86e0f7231af4ce20e8f7fabbce9",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
