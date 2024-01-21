@@ -1,0 +1,26 @@
+{
+  "name": "Max Delgado",
+  "age": 44,
+  "address": {
+    "street": "Hogeb Park",
+    "city": "Pesuvote",
+    "state": "NH",
+    "zip": "11843"
+  },
+  "contact": {
+    "phone": "(876) 345-2984",
+    "servicePhone": "800159345"
+  },
+  "birthday": "1961-04-06T05:52:32.618Z",
+  "ip": "203.49.123.160",
+  "foo": "bar",
+  "profile": {
+    "about": "Loftucba donzemi jezolure rer rubbe ake sian likohi weeb jaggeivu po wumace hed ekecohez etji kihadmo. Zotiv wiv tosug er ja us fosilcol vah cowfuja gune hoole atokeaj nan deh. Aleruj ucera pibpogow vi wi fuz lakge bizubto ceba dusoji opfupu sapooba zi sogmuitu lok ranwoz laan cofna.",
+    "bio": "Izociumu til zuicgi ibupo ujidisi tencupow dukbohu cuz gimlo ced zehve rafe pol maren. Gapuki safisak ukamo devpad baumki lakzi roceloh dajuba ogulic vecwuenu rogco ihwufjaw gepjerpo ow didcat su seelifos ne. Ri zuho zevtese gum mis tesuceg jufjonpu vaw cu hut agco afe moule. Ehi necege rimmi vewven eza foj bu ob ruva wug meconwow ciodzol pujos tuskad oz atu. Cep jasop pe lehu ose on licohum uv simdosu pittuhes gusatu luwuvfe roegiiko gaigir ijolamaw sovfukag ecep. Gumi in noru zaw vaos mean ek gibane to piriz wa uj kahe tavomvi sibgecek pos."
+  },
+  "apiKey": "d40a340a3cbfc70cb60f385b9c9d1a0e7eafb06839971cbc3cf8ef701cc88522",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
