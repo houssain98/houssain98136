@@ -1,0 +1,26 @@
+{
+  "name": "Craig Hoffman",
+  "age": 34,
+  "address": {
+    "street": "Azji Trail",
+    "city": "Hojonhov",
+    "state": "CT",
+    "zip": "44542"
+  },
+  "contact": {
+    "phone": "(573) 519-7492",
+    "servicePhone": "800256136"
+  },
+  "birthday": "1978-11-25T06:30:04.268Z",
+  "ip": "121.104.196.21",
+  "foo": "bar",
+  "profile": {
+    "about": "Wipevon tub caef dupo liwotusi laapu izzohu mibji opupihuc wica disdufsuc du ceon. Meofwum uma nagofi ja enevonga demnoptev ijugion setlake lennu uketuv wakago tuwdi fa kisgod puc inpofze cubduh emu. Nidop debavat ojiwa neef ivilog ju lu leh totgiuki zu uljap fugab aj ladaz rolvu kaw lufbunim meufsi. Fagcavo ozo ajo gitil ih iro nu tel wihameh mivevu zecro gepuwfes.",
+    "bio": "Begor kigolvu zom odu iwpot roajlik agtom cir te koz izearahal ruli ulti. Rahgu ludzo lafhe mihu hemo es otlepjob cited ovu hebru mahonu hehi ekecuwban. Furur ci mipnebo no jifezabo vovlin avimiv ofucec kaad uhe tawte podfi."
+  },
+  "apiKey": "62193e66fac0c05474c204eb16b7537aad5d0ffad32456be673547d30b0e5e0e",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
