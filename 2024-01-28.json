@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Coleman",
+  "age": 33,
+  "address": {
+    "street": "Huzu Circle",
+    "city": "Sehuczoh",
+    "state": "CT",
+    "zip": "46062"
+  },
+  "contact": {
+    "phone": "(639) 505-8008",
+    "servicePhone": "800183845"
+  },
+  "birthday": "1976-07-11T20:52:47.704Z",
+  "ip": "32.191.133.109",
+  "foo": "bar",
+  "profile": {
+    "about": "Neodeol pivman nofufeca so homsibki odi tadi cur egtef doodage owageg pumegvo ihoke duhuna goju vim pahujle. Pooz vugtescuz vupeh egeipepos vi fohifvu pegveb posek kirunaz hodmit baka bis. Mivilve ru covsudam usca huphab onbiz so heg pano ha purcakaj polooji otfazal loj vunejme.",
+    "bio": "Utuneruc cevzi ehhibo tohah okoceh ojo dotrizkov duduk uto hi idudokze zajkec ro wupir nabetrin. Nopzulez faoh vaahamur lawho uvlibeh kuv hul jer zuleb galjatof daazdus pommarid tuvni gapadje. Mitfin ifvaufi da sewefo tizfited wob waeho pem omusihab go las tovpe zadevhu ok. Tiz jufin berwekmu eb totku ta orejeteh wootoba av cun bujfe pogadab. Sil jeono zilicsi mapbog ti kohupso om cog hobfu puokari ifa len nik. Daja jagla nejgeac ba miw rok totpakjo dis nurevwe ap ihla ke kebiv. Ilecah gisnug risika uzorjul esahoj tawo sandocvop sivic gus pugmuwpib hedugaz pu veek ditcigdu zujbi vuvi pu."
+  },
+  "apiKey": "1dbf0326fe542245901b51d8cdbb09726ed0177547ad38bd61d50d583e14bd8c",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
