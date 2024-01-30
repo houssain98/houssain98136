@@ -1,0 +1,26 @@
+{
+  "name": "Lester Price",
+  "age": 47,
+  "address": {
+    "street": "Zees Avenue",
+    "city": "Rajewveg",
+    "state": "GA",
+    "zip": "36641"
+  },
+  "contact": {
+    "phone": "(201) 677-1301",
+    "servicePhone": "800429516"
+  },
+  "birthday": "1972-08-16T14:50:22.249Z",
+  "ip": "60.140.119.149",
+  "foo": "bar",
+  "profile": {
+    "about": "Ragmiv tipuji la jenoc idkiw ta heitpa tuhefonef ze kafil gojkiba huhiw si biiwu feb. Kottif es vub kas wo lisdarroj epos urpav cotlic ofcezud una rovuwuki hum metuemi ihbe hihho nit joj. Vuzkiz za eri uvmafun kekbeb leilmed kuf veztowi ziwapih ebo bawnopfug li visdu.",
+    "bio": "Ap usici cufme tizzoguc guson malwuda koonlag itpewlu mopus ve zucij tan jesvez. Puvcapru jiwatica wafip riz gogi toir wo bobcuhhos sujukdub joar fujsiwit ohucliv gir ujoje gufu laz wos. Wugisca woli wengu poskomta vave vavcoto ingabot ta osvelu ti kofuttem mi ta maw ohiufe zo muzzof de. Ozuehi higal awebu pekolod agheme huvi wij sor egi tagine vu sagkunrec wij ha iki."
+  },
+  "apiKey": "c9f040a63c9b66186f1340e936aff83169b3b6f3024752abb90e2216c83447aa",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
