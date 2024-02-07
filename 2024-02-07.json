@@ -1,0 +1,26 @@
+{
+  "name": "Garrett Powers",
+  "age": 58,
+  "address": {
+    "street": "Nacoz Highway",
+    "city": "Evupivko",
+    "state": "NJ",
+    "zip": "87767"
+  },
+  "contact": {
+    "phone": "(864) 591-1416",
+    "servicePhone": "800269934"
+  },
+  "birthday": "1985-12-28T14:18:30.759Z",
+  "ip": "176.18.7.217",
+  "foo": "bar",
+  "profile": {
+    "about": "Ivivod pufug joanarad dekda egunic jigi iw ug tushapep uhho dap li. Lo vikouri ewe zej ni jim ci ta hu mumiwer fowa dop. Damukfu midvoku wihhozup el wivkeclu icuise zodvu haizlad deepoik rop gajawodi setisako ococav huru. Ebde jip nabnab zu vamjizawa isew ob lugofvo ba afisaw zazfinka go da ebu ha ihapuho mu.",
+    "bio": "Vi tisu ukku fok rewin ikucino man waesa ba it na wi kute bow rokof ed ruli. Wa bal ke oz usibazham nelnupel gobopa uhege jun colzusti boh ateodajek henos jeze. Eblu motkikad pazragu zepbop ronjogzit jubfulu secmuf kuwaag famfo puona mejneot bisnuvul."
+  },
+  "apiKey": "21e757ba1a305861a849eeba8066790e01681a90a163049ca4ee55dcb7236332",
+  "currency": {
+    "code": "TTD",
+    "name": "Trinidad and Tobago Dollar"
+  }
+}
