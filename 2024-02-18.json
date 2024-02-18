@@ -1,0 +1,26 @@
+{
+  "name": "Alta Becker",
+  "age": 60,
+  "address": {
+    "street": "Ogegi Lane",
+    "city": "Voharbe",
+    "state": "VA",
+    "zip": "70528"
+  },
+  "contact": {
+    "phone": "(944) 596-9817",
+    "servicePhone": "800121721"
+  },
+  "birthday": "1980-02-14T17:13:19.506Z",
+  "ip": "89.227.203.218",
+  "foo": "bar",
+  "profile": {
+    "about": "Ezi do ub lus rogube vap dapjouga rebuwtu fugucomu mu cic cacli lazav. Ecto gi wusuhosij up lopvac zef ruguk atu otu unogu zumuw lu negow. Va ego gaj zadjibos veele bolelkaj vacubnof we pehco wuja vev fim lobahum ganpoliz mu.",
+    "bio": "Upnocpe me rarem vak bomur vu ze alrik cowetfid nu ihudid um bigev ilupal va toriida. Afike kap hi savseso ed totad kipda pafgazno zublelu ewuuvbi seb ni ina ki fiafoniw illecef ohireca. Dicviz jizeja vak doweofu do ja ave fekboofu tojovo ka mojgeru bezeve hufus ho ipraswo wapumomof zipokan. Nenoeko ufealezo kefsas lehka ves laapeke geil nihirpe su losdoega ce lotu migcanwim low."
+  },
+  "apiKey": "cd2579039d20daba14913c3a865c97039c1f398633c86d07ef9f57aa2e27e882",
+  "currency": {
+    "code": "TTD",
+    "name": "Trinidad and Tobago Dollar"
+  }
+}
