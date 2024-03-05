@@ -1,0 +1,26 @@
+{
+  "name": "Barry James",
+  "age": 39,
+  "address": {
+    "street": "Hedfus Pass",
+    "city": "Cumhara",
+    "state": "MA",
+    "zip": "29379"
+  },
+  "contact": {
+    "phone": "(264) 231-3422",
+    "servicePhone": "800246449"
+  },
+  "birthday": "1964-06-26T22:52:26.515Z",
+  "ip": "173.209.96.8",
+  "foo": "bar",
+  "profile": {
+    "about": "Ote wosog oje epo kal had tehevu merecce ofde ibsod tisjagtob deec farehuf. Pacan ibeneha uvsih difog marfoje mobo esfe wanses hisledze uk lizu ci. Buvagne orka irfom jabjop hanatlez medemu lelkifora ir vakminop casnem guke raf.",
+    "bio": "Zuche jahniuc gidij pe ojji tu te dawu mi wacerfus cefcazi monje. Ovse rerjeb rovmik subda hoc vuppa dipmajmu pubun vagetu li ilu pihnip wil sivu wuteshoh eztof ha dewujon. Topenapu owzud juopi hiser cu opzav cunpis dogcogu refcipvif pegke memuha kahre ufe fuiburum pazlob babip. Mi ej vavnitur mejgur sa co vijab sawirbej duhogfi siikoum ewrefti fiknej kohizkar. Mumheod kaogubi ut wengufa zopkof ul gofamsof ifhupbi usicutir aw fabcuz duhopoho eleica."
+  },
+  "apiKey": "9a8e5dd56c59d20a016ba7dd569528528eb3d71ffc52c53799a9a05e5c2f0e12",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
