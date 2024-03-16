@@ -1,0 +1,26 @@
+{
+  "name": "Alice Kim",
+  "age": 24,
+  "address": {
+    "street": "Hinaw Street",
+    "city": "Foafku",
+    "state": "NV",
+    "zip": "69764"
+  },
+  "contact": {
+    "phone": "(457) 739-5659",
+    "servicePhone": "800237883"
+  },
+  "birthday": "1978-10-30T20:14:23.693Z",
+  "ip": "138.93.101.194",
+  "foo": "bar",
+  "profile": {
+    "about": "Jirbijeha ceczup nuk powhodra kupkimub ek mapegjof cikicij pirfurwub cozait itojowzac tontezo judno pongumi nustezul. Hippofuhi fe jusvuc ri ahanel tuhba nemuvsa nele losehgil dora wantione bow obbarras powdo. Jepdoszec kiv pahu wezsiz fijvek ozalupha vovwodin gokondo naowewus curcogic usomog ot co. Muzubuk ho adege togov ovu wad fuvapvok diplofu mem reszow no duz lelkoncu. Walkuese go jomop vewunlet ju kinwaliza gipe na ce beswebuz cotowu so. Tow usumi tobu onveh ijluton idugves zo mer othal gopba hifij nutun ap. Fewep teza julohijaj lurhaf ibuoze joege saru etese livop icibazak tamnah ceg sobmeara vuv.",
+    "bio": "Moerik vu cuh vez jib sim ga ha fivnuhgac gin goj petnidu zamate. Nenjemir allabid ciwvanic fobi afuewmed nukgo we fuwaklib canliggu igaludes giti sufaf. Zinif il fivvib uzpep puben ez ucronat rizce zoc bazrot ladsac alnep kitpe ewuzaha vi pic je. No hona daifmod as buv re ifucito jumalju belu caklor focru bem iswuh lol."
+  },
+  "apiKey": "58da3b654feb763e429883b869b7f9260b26d1563e5e65842889a33431d14caa",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
