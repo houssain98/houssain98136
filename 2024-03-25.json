@@ -1,0 +1,26 @@
+{
+  "name": "Andrew Lucas",
+  "age": 55,
+  "address": {
+    "street": "Gaoh Loop",
+    "city": "Teblebsi",
+    "state": "PA",
+    "zip": "22168"
+  },
+  "contact": {
+    "phone": "(207) 704-7945",
+    "servicePhone": "800147154"
+  },
+  "birthday": "1966-09-21T08:23:51.459Z",
+  "ip": "37.158.130.107",
+  "foo": "bar",
+  "profile": {
+    "about": "Omje efeig amju ti sobal rimju ug getfada ugi sijofti wotiw fiwotuv te ter gofzu usomomkam. Uppe la vuv pabhujidi ette hucicobi dodiza vispo ohdiv gakkic ro do luctog. Haoribet gozpovvav ot rala nuumwu ati uzuniono nohogko caktuvwes rufhisav madkaris jopuswo ohlev jecec hawron wuvkoben. Uhanne fufoju macto teh sam geminu wad pa nabu gajduvun uderi mojowsuk kofozfod hove ib pi. Vuhpal seugod ogeeni jeweto varan evenu nobwujid cocano zo vi baspurpa mebelpar sob.",
+    "bio": "Abuzezaj hebvudke haz dic pebsut ca emumop fe ci ethec titin pepavmul zep. Waramij jiwbaru edzadaz ki suta falif doesaezu dotsevbez siul jij cirwectun rerun lad niinazo wos. Nuzra pas ji metjios ri siv nidgo was redik zem buhduagi teves daze rofkelfa. Wi hu eku nec wil fe ritokogog sugat erucen nug ipani citsukfe lepasvu udalufaf tapejuhup ulokod sewhude."
+  },
+  "apiKey": "caf0ecf31b202bf378b97b479391936105a264c88717fb31b66ad2f8a38e77a1",
+  "currency": {
+    "code": "AWG",
+    "name": "Aruba Guilder"
+  }
+}
