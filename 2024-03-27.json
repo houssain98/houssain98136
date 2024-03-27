@@ -1,0 +1,26 @@
+{
+  "name": "Edgar Sanchez",
+  "age": 20,
+  "address": {
+    "street": "Boofu Point",
+    "city": "Mugkisu",
+    "state": "CT",
+    "zip": "03617"
+  },
+  "contact": {
+    "phone": "(420) 247-3544",
+    "servicePhone": "800918876"
+  },
+  "birthday": "1987-07-13T15:34:13.288Z",
+  "ip": "18.234.157.38",
+  "foo": "bar",
+  "profile": {
+    "about": "Gobufu kolnapu imuwaj ecenof at biiwuav ejopiz ranob radlitfi ebu ticu gusgak. Izilepko tofoga bo vikzis geene ushuz fofci ohoci itufo nepsurgez ri la. Nelraz jaow pa hi for jurhebew gijpuzzu pepahije weljuhro suofeno fa utpasrar dah nurfo ivbeiw.",
+    "bio": "Fasehi jepsi ovfo hizi agu ihejo tucbeosi poj ehavakow owkebdo sikipog nifazu kihne lipgobon peje zebruf. Hizbazi hedkoj cigfa es zemij gehap le jevif reghaawi fimudzum lac ne anje mumvi momvim wogwanoj upoej neojicos. Ute benpogri ezosozu hih irrul ben wobnuhed icowegod kahpawren nef getolip fozer kiwedot malwimake simu jevjawaj la. Ha vulilo hopgiha vapjeru joguton vupgum ebeufe ipaji kogagfe jecco puswah ma zijivepa wap. Vuuwezi jo cuh huf hewot zoarueju ne kib gevuvo nejkose nim cealku okinufud lad jebolur sek. Ga ut be pesokzul bu le dudvav wilokat wekeku po ufwisco atiev."
+  },
+  "apiKey": "8283d769d817a4b11c2a2aa204deeaf667e3016c06f80e6334755cc08e80591b",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}
