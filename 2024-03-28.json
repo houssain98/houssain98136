@@ -1,0 +1,26 @@
+{
+  "name": "Bill Cross",
+  "age": 30,
+  "address": {
+    "street": "Cagu Way",
+    "city": "Agnaro",
+    "state": "TX",
+    "zip": "37060"
+  },
+  "contact": {
+    "phone": "(262) 519-4267",
+    "servicePhone": "800272815"
+  },
+  "birthday": "1968-05-08T01:47:46.016Z",
+  "ip": "171.140.194.163",
+  "foo": "bar",
+  "profile": {
+    "about": "Fubbumed vakmojo jurer boeziow il adena ogegov ezonorjit cizlum jopicfu ozitiv vanlo cis uci ahda. Fe dum kodfunib rize ruoga ol edduv go iha ithosvav iku cirip cusubbu ge ze mu un waru. Nahjogi wibif compuv sebilava lu vaw pa asrajde uhi ijevun daoha vijed ugu. Aducu re hudvufpi bejokled pudilbe rit fo ojfohan lo ocu pomsa cemenu ze viphek ti beju.",
+    "bio": "Sefa ihebobu lekwo wid hidul bokcewu erisicwe je debem ujepa wobgolbac ruakavav wo. Getofliz lima lez maed ibeuc hoz gidbiksi markev pihut bavu tejecec vol ecawemlo ocuemgaj fi. Gubmo iv zazzig gu opitto fuz fuwu egigok uttasu jafum etova popotesi jazere vuh. Zurocahi tizzavwu jun nicoviw kaucigol epo juzfo olriz uwbog lopi hoce wocomok fiva tardi sorhugdat waojnoh. Ekapupnor cereszu eckudad udo jilevdul for vu zebze muciw arefuz awe fube adi damvi ma de mad. Mogki volu dapan vewti ule juj tuzev lanime sizodmi wi wumif odwu nacsabnav pojaf cijog ejweeka."
+  },
+  "apiKey": "b9c6b463cfa66972f3fd7feaf39a3f937797d50fe773dc89a2429c531fbad4f3",
+  "currency": {
+    "code": "ALL",
+    "name": "Albania Lek"
+  }
+}
